@@ -1,0 +1,22 @@
+node_modules/
+.env
+.expo
+*.keystore
+*.jks
+.env
+
+# Build outputs
+dist/
+
+# Backup files
+*.backup
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+functions/node_modules/
+..bfg-report/
+
+functions/lib/
